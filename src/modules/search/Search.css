@@ -1,0 +1,59 @@
+#search-wrap {
+  text-align:center;
+  margin:2em;
+}
+
+#search-wrap h1 {
+  border-bottom:1px solid black;
+}
+
+#search-wrap #query {
+  margin-top:2em;
+}
+
+#results {
+  text-align:center;
+  padding:1em;
+}
+
+#results .fetching {
+  margin-top:6em;
+}
+
+#results .book {
+  border:1px solid transparent;
+}
+
+#results .book[data-book-status="currently-reading"],
+#results .book[data-book-status="want-to-read"],
+#results .book[data-book-status="read"] {
+  background:whiteSmoke;
+}
+
+/*#results .book[data-book-status="currently-reading"] > *,
+#results .book[data-book-status="want-to-read"] > *,
+#results .book[data-book-status="read"] > *{
+  opacity:0.75;
+}
+
+#results .book[data-book-status="currently-reading"] .actions,
+#results .book[data-book-status="want-to-read"] .actions,
+#results .book[data-book-status="read"] .actions{
+  opacity:1;
+}
+*/
+#results .book .actions {
+  opacity:1 !important;
+}
+
+#results .book .actions .checkmark {
+  display:inline;
+  width:0px;
+  position:relative;
+  right:0.55em;
+  border-radius:20px;
+  color:rgb(50,255,50);
+  font-size:1.25em;
+  float:right;
+  margin-top:-0.1em;
+}

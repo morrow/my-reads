@@ -1,0 +1,134 @@
+/* FilteredBookList */
+.filtered-book-list-wrap {
+  margin: 2em;
+  text-align:center;
+}
+
+.filtered-book-list-title {
+  text-transform:capitalize;
+  padding:0.2em;
+  border-bottom:1px solid #333;
+}
+
+.filter-book-list-add-book {
+  margin:1em;
+}
+
+.filter-book-list-add-book.book {
+  position: relative;
+  top:1em;
+  padding:3em;
+  width:130px !important;
+  height:200px;
+  background:whiteSmoke;
+}
+
+.filter-book-list-add-book.book a {
+  display: block;
+  margin-top:75px;
+  margin-left:0.75em;
+  margin-right:1em;
+  font-family:'Source Sans Pro';
+}
+
+.filter-book-list-add-book.book:hover {
+  background:whiteSmoke !important;
+}
+
+/* All books */
+.book .image img {
+  max-height:100%;
+  box-shadow:0px 0px 7px #aaa;
+}
+
+/* Book in list */
+.books .book {
+  text-align:center;
+  vertical-align:top;
+  display: inline-block;
+  width:190px;
+  margin:0.5em;
+  font-size:0.9em;
+  padding:0.5em;
+}
+
+.books .book:hover {
+  background:whiteSmoke;
+}
+
+.books .book * {
+  max-width:100%;
+}
+
+.books .book > * {
+  margin:0.2em;
+}
+
+.books .book .title {
+  font-weight: bold !important;
+}
+
+.books .book .description {
+  display:none;
+}
+
+.books .book .image {
+  height:150px;
+  margin:1em;
+}
+
+.books .book .image img:hover {
+  box-shadow:0px 0px 12px #999;
+}
+
+.books .book .actions {
+  opacity:0;
+}
+
+.books .book .checkmark {
+  display:none;
+}
+
+.books .book:hover .actions {
+  opacity:1;
+}
+
+/* Book */
+#book .book {
+  min-height:500px;
+  max-width:800px;
+  margin:0 auto;
+}
+
+#book .book .description {
+  line-height:1.5em;
+  max-width:1200px;
+}
+
+#book .book .description button {
+  margin-left:1em;
+}
+
+
+#book .book .image {
+  float:left;
+  margin:2em;
+  min-width:300px;
+  min-height:300px;
+  background:#eee;
+  margin-top:0 !important;
+}
+
+#book .book .title {
+  font-size:2em;
+  font-weight:bold;
+  margin-top:0 !important;
+}
+
+#book .book .authors {
+  font-size:1.25em;
+}
+
+#book .book > * {
+  margin:0.5em 0;
+}

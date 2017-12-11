@@ -1,0 +1,143 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif:400,700|Source+Sans+Pro:600,700,900);
+
+/* App-wide */
+html {
+  height:100%;
+  box-sizing: border-box;
+}
+
+#root {
+  height:100%;
+  padding-bottom:6em;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  min-height:100%;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Serif";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family:'Source Sans Pro';
+  font-weight:normal;
+  margin:0;
+}
+
+a,
+a:visited {
+  color:inherit;
+  text-decoration:none;
+}
+
+a:hover,
+a:visited:hover {
+  text-decoration:underline;
+}
+
+button, .button {
+  font-size:1em;
+  cursor:pointer;
+  padding:0.25em 0.5em;
+  background:#eee;
+  border-radius:3px;
+  border:1px solid #333;
+  font-family:'Source Sans Pro';
+}
+
+/* Header */
+header nav {
+    background:#09f;
+}
+
+
+header nav a {
+  display:inline-block;
+  padding:1em;
+}
+
+header nav a.logo {
+  font-size:2em;
+  color:white;
+  font-family:'Source Sans Pro';
+}
+
+header nav a.search {
+  float:right;
+  position:relative;
+  top:2em;
+  right:2em;
+}
+header nav a.search span {
+  display:inline-block;
+  margin-right:0.5em;
+}
+
+/* Main */
+main {
+  margin:1em;
+}
+
+.welcome-message {
+  padding:1em;
+  text-align:center;
+}
+
+#about h1 {
+  text-align:center;
+}
+
+/* Footer */
+footer {
+  text-align:center;
+  background: #444;
+  color:#eee;
+  display: block;
+  padding:1em;
+  font-family:'Source Sans Pro';
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  margin: 0;
+}
+
+footer #reset {
+  color:red;
+}
+
+footer #reset:hover {
+  background:#ccc;
+}
+
+footer > * {
+  margin:0 2em;
+}
+
+.lists .list {
+  display: block;
+  margin:2em;
+  text-decoration:underline;
+}
+
+.back-to-home {
+  text-align:left;
+  display: block;
+  height:3em;
+}
+
+.back-to-home a {
+  text-decoration:underline;
+}

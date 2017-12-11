@@ -1,0 +1,288 @@
+[
+  {
+    "id": "lPV1CQAAQBAJ",
+    "authors": [
+      "Mikael Krogerus",
+      "Roman Tschäppeler"
+    ],
+    "title": "The Test Book",
+    "thumbnail": "http://books.google.com/books/content?id=lPV1CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=lPV1CQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Self-Help"
+    ],
+    "description": "An essential library of tests for self-knowledge and success, from the strategic thinking experts behind the international bestseller The Decision Book. Are you clever? Can you self-motivate? Are you creative? How do you handle money? Can you lead others well? With their trademark style and wit, best-selling authors Mikael Krogerus and Roman Tschäppeler present sixty-four tests spanning intelligence and personality type; creativity and leadership skills; fitness and lifestyle; and knowledge and belief. From what you see in a Rorschach test to comparing your workout against a Navy SEAL’s, from EQ to IQ and Myers-Briggs in between, The Test Book offers a panoply of ways to assess yourself and decide what you need to succeed. As Krogerus and Tschäppeler highlight, you can only know whether you have the right skills, the right job, or the right partner when you know where you stand right now. Small enough to fit in your pocket but packed with insight and good humor, The Test Book delivers a quick, fun way to evaluate your life and happiness.",
+    "published": "2015"
+  },
+  {
+    "id": "VrAx1ATf-RoC",
+    "authors": [
+      "James A. Whittaker",
+      "Jason Arbon",
+      "Jeff Carollo"
+    ],
+    "title": "How Google Tests Software",
+    "thumbnail": "http://books.google.com/books/content?id=VrAx1ATf-RoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=VrAx1ATf-RoC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Computers"
+    ],
+    "description": "2012 Jolt Award finalist! Pioneering the Future of Software Test Do you need to get it right, too? Then, learn from Google. Legendary testing expert James Whittaker, until recently a Google testing leader, and two top Google experts reveal exactly how Google tests software, offering brand-new best practices you can use even if you’re not quite Google’s size…yet! Breakthrough Techniques You Can Actually Use Discover 100% practical, amazingly scalable techniques for analyzing risk and planning tests…thinking like real users…implementing exploratory, black box, white box, and acceptance testing…getting usable feedback…tracking issues…choosing and creating tools…testing “Docs & Mocks,” interfaces, classes, modules, libraries, binaries, services, and infrastructure…reviewing code and refactoring…using test hooks, presubmit scripts, queues, continuous builds, and more. With these techniques, you can transform testing from a bottleneck into an accelerator–and make your whole organization more productive!",
+    "published": "2012"
+  },
+  {
+    "id": "-4OSBQAAQBAJ",
+    "authors": [
+      "Anya Kamenetz"
+    ],
+    "title": "The Test",
+    "thumbnail": "http://books.google.com/books/content?id=-4OSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=-4OSBQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Education"
+    ],
+    "description": "No sooner is a child walking and talking than the ABCs and 1-2-3s give way to the full-on alphabet soup: the ERBs, the OLSAT, the IQ, the NCLB for AYP, the IEP for ELLs, the CHAT and PDDST for ASD or LD and G&T or ADD and ADHD, the PSATs, then the ACTs and SATs—all designed to assess and monitor a child's readiness for education. In many public schools, students are spending up to 28% of instructional time on testing and test prep. Starting this year, the introduction of the Common Core State Standards Initiative in 45 states will bring an unprecedented level of new, more difficult, and longer mandatory tests to nearly every classroom in the nation up to five times a year—forcing our national testing obsession to a crisis point. Taxpayers are spending extravagant money on these tests—up to 1.4 billion per year—and excessive tests are stunting children's spirits, adding stress to family life, and slowly killing our country's future competitiveness. Yet even so, we still want our kids to score off the charts on every test they take, in elementary school and beyond. And there will be a lot of them. How do we preserve space for self-directed learning and development, while also asking our children to make the score and make a mark? This book is an exploration of that dilemma, and a strategy for how to solve it. The Test explores all sides of this problem—where these tests came from, why they're here to stay, and ultimately what you as a parent or teacher can do. It introduces a set of strategies borrowed from fields as diverse as games, neuroscience, social psychology, and ancient philosophy to help children do as well as they can on tests, and, just as important, how to use the experience of test-taking to do better in life. Like Paul Tough's bestseller How Children Succeed, it illuminates the emerging science of grit, curiosity and motivation, but takes a step further to explore innovations in education—emerging solutions to the over-testing crisis—that are not widely known but that you can adapt today, at home and at school. And it presents the stories of families of all kinds who are maneuvering within and beyond the existing educational system, playing and winning the testing game. You'll learn, for example, what Bill Gates, a strong public proponent of testing, does to stoke self-directed curiosity in his children, and how Mackenzie Bezos, wife of Amazon founder Jeff Bezos and mother of three, creates individualized learning experiences for each of her children. All parents want their children to be successful, and their schools to deliver true opportunities. Yet these goals are often as likely to result in stress and arguments as actual progress. The Test is a book to help us think about these problems, and ultimately, move our own children towards the future we want for them, from elementary to high school and beyond.",
+    "published": "2015"
+  },
+  {
+    "id": "cB0b1FnLbfgC",
+    "authors": [
+      "J. Charles Alderson",
+      "Caroline Clapham",
+      "Dianne Wall"
+    ],
+    "title": "Language Test Construction and Evaluation",
+    "thumbnail": "http://books.google.com/books/content?id=cB0b1FnLbfgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=cB0b1FnLbfgC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Education"
+    ],
+    "description": "This book describes the process of language test construction and reviews current practice.",
+    "published": "1995"
+  },
+  {
+    "id": "Ia3SGDfbaV0C",
+    "authors": [
+      "Steven J. Osterlind"
+    ],
+    "title": "Constructing Test Items",
+    "thumbnail": "http://books.google.com/books/content?id=Ia3SGDfbaV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=Ia3SGDfbaV0C&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Education"
+    ],
+    "description": "Constructing test items for standardized tests of achievement, ability, and aptitude is a task of enormous importance. The interpretability of a test's scores flows directly from the quality of its items and exercises. Concomitant with score interpretability is the notion that including only carefully crafted items on a test is the primary method by which the skilled test developer reduces unwanted error variance, or errors of measurement, and thereby increases a test score's reliability. The aim of this entire book is to increase the test constructor's awareness of this source of measurement error, and then to describe methods for identifying and minimizing it during item construction and later review. Persons involved in assessment are keenly aware of the increased attention given to alternative formats for test items in recent years. Yet, in many writers' zeal to be `curriculum-relevant' or `authentic' or `realistic', the items are often developed seemingly without conscious thought to the interpretations that may be garnered from them. This book argues that the format for such alternative items and exercises also requires rigor in their construction and even offers some solutions, as one chapter is devoted to these alternative formats. This book addresses major issues in constructing test items by focusing on four ideas. First, it describes the characteristics and functions of test items. A second feature of this book is the presentation of editorial guidelines for writing test items in all of the commonly used item formats, including constructed-response formats and performance tests. A third aspect of this book is the presentation of methods for determining the quality of test items. Finally, this book presents a compendium of important issues about test items, including procedures for ordering items in a test, ethical and legal concerns over using copyrighted test items, item scoring schemes, computer-generated items and more.",
+    "published": "1997"
+  },
+  {
+    "id": "uDWZ6KcKxX4C",
+    "authors": [
+      "Joel Wiesen"
+    ],
+    "title": "Barron's Mechanical Aptitude and Spatial Relations Test",
+    "thumbnail": "http://books.google.com/books/content?id=uDWZ6KcKxX4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=uDWZ6KcKxX4C&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Study Aids"
+    ],
+    "description": "This manual presents 18 practice tests in both mechanical aptitude & spatial ability with answers & detailed explanations for all questions.",
+    "published": "2009"
+  },
+  {
+    "id": "S9pw5tej8UMC",
+    "authors": [
+      "Lin Lougheed"
+    ],
+    "title": "Barron's TOEIC Bridge Test with Audio CDs",
+    "thumbnail": "http://books.google.com/books/content?id=S9pw5tej8UMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=S9pw5tej8UMC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Language Arts & Disciplines"
+    ],
+    "description": "A study guide for the TOEIC English-proficiency exam includes subject reviews of both the listening and reading sections; skill-building activities in vocabulary, listening comprehension and reading comprehension; a full-length practice test with all questions answered and explained; and two audio CDs.",
+    "published": "2010"
+  },
+  {
+    "id": "QkhMi6mKmUMC",
+    "authors": [
+      "George Austin Test"
+    ],
+    "title": "Satire",
+    "thumbnail": "http://books.google.com/books/content?id=QkhMi6mKmUMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=QkhMi6mKmUMC&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+    "categories": [
+      "Literary Criticism"
+    ],
+    "description": "Tracking his subject wherever it leads, Test finally locates satire living like a stranger in the basement. Even then it won't be trapped. Defining satire is like trying to put a shadow in a sack, he observes. What he brings upstairs - the fiercest form - is an encylopedic, historical analysis of satire.",
+    "published": "1991"
+  },
+  {
+    "id": "RuxUkltYl_UC",
+    "authors": [
+      "Tim McNamara"
+    ],
+    "title": "Language Testing",
+    "thumbnail": "http://books.google.com/books/content?id=RuxUkltYl_UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=RuxUkltYl_UC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Foreign Language Study"
+    ],
+    "description": "This book examines test design, the rating process, validity, measurement and the social dimension of language testing. Traditional and newer forms of language assessment are considered.",
+    "published": "2000"
+  },
+  {
+    "id": "E0yH0NdySrQC",
+    "authors": [
+      "Lyle F. Bachman",
+      "Adrian S. Palmer"
+    ],
+    "title": "Language Testing in Practice",
+    "thumbnail": "http://books.google.com/books/content?id=E0yH0NdySrQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=E0yH0NdySrQC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Foreign Language Study"
+    ],
+    "description": "This book relates language testing practice to current views of communicative language teaching and testing. It builds on the theoretical background expounded in Bachman's Fundamental Considerations in Language Testing and examines the design, planning, and organization of tests. The book is divided into three sections which discuss 1) objectives and expectations, the context of language testing, and the abilities to be tested; 2) the process of test development, including blueprints, resources, operationalization, and scoring methods; and 3) ten examples which illustrate the principles discussed in Parts One and Two.",
+    "published": "1996"
+  },
+  {
+    "id": "fbqlQaMiIYsC",
+    "authors": [
+      "Rex Black"
+    ],
+    "title": "Pragmatic Software Testing",
+    "thumbnail": "http://books.google.com/books/content?id=fbqlQaMiIYsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=fbqlQaMiIYsC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Computers"
+    ],
+    "description": "A hands-on guide to testing techniques that deliver reliable software and systems Testing even a simple system can quickly turn into a potentially infinite task. Faced with tight costs and schedules, testers need to have a toolkit of practical techniques combined with hands-on experience and the right strategies in order to complete a successful project. World-renowned testing expert Rex Black provides you with the proven methods and concepts that test professionals must know. He presents you with the fundamental techniques for testing and clearly shows you how to select and apply successful strategies to test a system with budget and time constraints. Black begins by discussing the goals and tactics of effective and efficient testing. Next, he lays the foundation of his technique for risk-based testing, explaining how to analyze, prioritize, and document risks to the quality of the system using both informal and formal techniques. He then clearly describes how to design, develop, and, ultimately, document various kinds of tests. Because this is a hands-on activity, Black includes realistic, life-sized exercises that illustrate all of the major test techniques with detailed solutions. By the end of this book, you'll know more about the nuts and bolts of testing than most testers learn in an entire career, and you'll be ready to put those ideas into action on your next test project. With the help of real-world examples integrated throughout the chapters, you'll discover how to: Analyze the risks to system quality Allocate your testing effort appropriately based on the level of risk Choose the right testing strategies every time Design tests based on a system's expected behavior (black box) or internal structure (white box) Plan and perform integration testing Explore and attack the system Focus your hard work to serve the needs of the project The author's companion Web site provides exercises, tips, and techniques that can be used to gain valuable experience and effectively test software and systems. Wiley Technology Publishing Timely. Practical. Reliable. Visit the author's Web site at http://www.rexblackconsulting.com/",
+    "published": "2007"
+  },
+  {
+    "id": "CQuBkXDspBkC",
+    "authors": [
+      "Frances Talaska Fischbach",
+      "Marshall Barnett Dunning"
+    ],
+    "title": "A Manual of Laboratory and Diagnostic Tests",
+    "thumbnail": "http://books.google.com/books/content?id=CQuBkXDspBkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=CQuBkXDspBkC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Medical"
+    ],
+    "description": "Now in its Eighth Edition, this leading comprehensive manual helps nurses deliver safe, effective, and informed care for patients undergoing diagnostic tests and procedures. The book covers a broad range of laboratory and diagnostic tests and studies that are delivered to varied patient populations in varied settings. Tests are grouped according to specimen and function/test type (e.g. blood, urine, stool, cerebrospinal fluid, etc.). Each test is described in detail, with step-by-step guidance on correct procedure, tips for accurate interpretation, and instructions for patient preparation and aftercare. Clinical Alerts highlight critical safety information.",
+    "published": "2009"
+  },
+  {
+    "id": "-3P00MGV74wC",
+    "authors": [
+      "Joelle Charbonneau"
+    ],
+    "title": "The Testing",
+    "thumbnail": "http://books.google.com/books/content?id=-3P00MGV74wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=-3P00MGV74wC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Young Adult Fiction"
+    ],
+    "description": "It’s graduation day for sixteen-year-old Malencia Vale, and the entire Five Lakes Colony (the former Great Lakes) is celebrating. All Cia can think about—hope for—is whether she’ll be chosen for The Testing, a United Commonwealth program that selects the best and brightest new graduates to become possible leaders of the slowly revitalizing post-war civilization. When Cia is chosen, her father finally tells her about his own nightmarish half-memories of The Testing. Armed with his dire warnings (”Cia, trust no one”), she bravely heads off to Tosu City, far away from friends and family, perhaps forever. Danger, romance—and sheer terror—await.",
+    "published": "2013"
+  },
+  {
+    "id": "cR5pNv76HMgC",
+    "authors": [
+      "Richard Chait",
+      "Ralph Papirno"
+    ],
+    "title": "Compression Testing of Homogeneous Materials and Composites",
+    "thumbnail": "http://books.google.com/books/content?id=cR5pNv76HMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=cR5pNv76HMgC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Compressibility"
+    ],
+    "published": "1983"
+  },
+  {
+    "id": "LKPLcfQWblUC",
+    "authors": [
+      "James Barrett",
+      "Jim Barrett",
+      "Geoffrey Williams"
+    ],
+    "title": "Test Your Own Aptitude",
+    "thumbnail": "http://books.google.com/books/content?id=LKPLcfQWblUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=LKPLcfQWblUC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Business & Economics"
+    ],
+    "description": "Test Your Own Aptitude, the biggest and best book on aptitude testing available, is for anyone who wants a successful career - but is unsure where to start. Based on solid scientific research and sound psychological practice, it contains a series of tests and questionnaires that will identify the reader's abilities; personality; and motivation. The results are then used to pinpoint ideal career choices and there is an index of over 400 jobs to help make the whole process easier. Fully revised and updated, it will help readers to make better decisions about their future - by establishing what they can do best and which career suits them most.",
+    "published": "2003"
+  },
+  {
+    "id": "5uRIb3emLY8C",
+    "authors": [
+      "Joseph R. Davis"
+    ],
+    "title": "Tensile Testing, 2nd Edition",
+    "thumbnail": "http://books.google.com/books/content?id=5uRIb3emLY8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=5uRIb3emLY8C&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Brittleness"
+    ],
+    "published": "2004"
+  },
+  {
+    "id": "Pqcesk8iZzMC",
+    "authors": [
+      "John M. Holt"
+    ],
+    "title": "Charpy Impact Test",
+    "thumbnail": "http://books.google.com/books/content?id=Pqcesk8iZzMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=Pqcesk8iZzMC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Compliance"
+    ],
+    "published": "1990"
+  },
+  {
+    "id": "lMTIIQb-MO8C",
+    "authors": [
+      "Bernd Schnütgen",
+      "Lucie Vandewalle"
+    ],
+    "title": "PRO 31: International RILEM Workshop on Test and Design Methods for Steel Fibre Reinforced Concrete - Background and Experiences",
+    "thumbnail": "http://books.google.com/books/content?id=lMTIIQb-MO8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=lMTIIQb-MO8C&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Cement composites"
+    ],
+    "published": "2003"
+  },
+  {
+    "id": "G5ZZuwpJdLEC",
+    "authors": [
+      "Adrian F. Richards"
+    ],
+    "title": "Vane Shear Strength Testing in Soils",
+    "thumbnail": "http://books.google.com/books/content?id=G5ZZuwpJdLEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=G5ZZuwpJdLEC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Shear strength of soils"
+    ],
+    "published": "1988"
+  },
+  {
+    "id": "a0NyZJKgqyIC",
+    "authors": [
+      "Francis J. Pilgrim",
+      "David R. Peryam"
+    ],
+    "title": "Sensory Testing Methods",
+    "thumbnail": "http://books.google.com/books/content?id=a0NyZJKgqyIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "http://books.google.com/books/content?id=a0NyZJKgqyIC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "categories": [
+      "Food"
+    ],
+    "published": "1958"
+  }
+]

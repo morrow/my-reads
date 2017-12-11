@@ -1,0 +1,1566 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2809,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lPV1CQAAQBAJ",
+   "etag": "o1RMlW/Dz5Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lPV1CQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Test Book",
+    "authors": [
+     "Mikael Krogerus",
+     "Roman Tschäppeler"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2015-10-05",
+    "description": "An essential library of tests for self-knowledge and success, from the strategic thinking experts behind the international bestseller The Decision Book. Are you clever? Can you self-motivate? Are you creative? How do you handle money? Can you lead others well? With their trademark style and wit, best-selling authors Mikael Krogerus and Roman Tschäppeler present sixty-four tests spanning intelligence and personality type; creativity and leadership skills; fitness and lifestyle; and knowledge and belief. From what you see in a Rorschach test to comparing your workout against a Navy SEAL’s, from EQ to IQ and Myers-Briggs in between, The Test Book offers a panoply of ways to assess yourself and decide what you need to succeed. As Krogerus and Tschäppeler highlight, you can only know whether you have the right skills, the right job, or the right partner when you know where you stand right now. Small enough to fit in your pocket but packed with insight and good humor, The Test Book delivers a quick, fun way to evaluate your life and happiness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393247053"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0393247058"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lPV1CQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lPV1CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lPV1CQAAQBAJ&printsec=frontcover&dq=test&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lPV1CQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-lPV1CQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lPV1CQAAQBAJ&rdid=book-lPV1CQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.795E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Test_Book-sample-epub.acsm?id=lPV1CQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lPV1CQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Small enough to fit in your pocket but packed with insight and good humor, The Test Book delivers a quick, fun way to evaluate your life and happiness."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VrAx1ATf-RoC",
+   "etag": "0nwbsKN5WyA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VrAx1ATf-RoC",
+   "volumeInfo": {
+    "title": "How Google Tests Software",
+    "authors": [
+     "James A. Whittaker",
+     "Jason Arbon",
+     "Jeff Carollo"
+    ],
+    "publisher": "Addison-Wesley",
+    "publishedDate": "2012-03-21",
+    "description": "2012 Jolt Award finalist! Pioneering the Future of Software Test Do you need to get it right, too? Then, learn from Google. Legendary testing expert James Whittaker, until recently a Google testing leader, and two top Google experts reveal exactly how Google tests software, offering brand-new best practices you can use even if you’re not quite Google’s size…yet! Breakthrough Techniques You Can Actually Use Discover 100% practical, amazingly scalable techniques for analyzing risk and planning tests…thinking like real users…implementing exploratory, black box, white box, and acceptance testing…getting usable feedback…tracking issues…choosing and creating tools…testing “Docs & Mocks,” interfaces, classes, modules, libraries, binaries, services, and infrastructure…reviewing code and refactoring…using test hooks, presubmit scripts, queues, continuous builds, and more. With these techniques, you can transform testing from a bottleneck into an accelerator–and make your whole organization more productive!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780132851558"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0132851555"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 18,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VrAx1ATf-RoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VrAx1ATf-RoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VrAx1ATf-RoC&printsec=frontcover&dq=test&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VrAx1ATf-RoC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VrAx1ATf-RoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 21.59,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VrAx1ATf-RoC&rdid=book-VrAx1ATf-RoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.159E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VrAx1ATf-RoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Legendary testing expert James Whittaker, until recently a Google testing leader, and two top Google experts reveal exactly how Google tests software, offering brand-new best practices you can use even if you’re not quite Google’s ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-4OSBQAAQBAJ",
+   "etag": "g7aVf0a17TA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-4OSBQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Test",
+    "subtitle": "Why Our Schools are Obsessed with Standardized Testing But You Don't Have to Be",
+    "authors": [
+     "Anya Kamenetz"
+    ],
+    "publisher": "PublicAffairs",
+    "publishedDate": "2015-01-06",
+    "description": "No sooner is a child walking and talking than the ABCs and 1-2-3s give way to the full-on alphabet soup: the ERBs, the OLSAT, the IQ, the NCLB for AYP, the IEP for ELLs, the CHAT and PDDST for ASD or LD and G&T or ADD and ADHD, the PSATs, then the ACTs and SATs—all designed to assess and monitor a child's readiness for education. In many public schools, students are spending up to 28% of instructional time on testing and test prep. Starting this year, the introduction of the Common Core State Standards Initiative in 45 states will bring an unprecedented level of new, more difficult, and longer mandatory tests to nearly every classroom in the nation up to five times a year—forcing our national testing obsession to a crisis point. Taxpayers are spending extravagant money on these tests—up to 1.4 billion per year—and excessive tests are stunting children's spirits, adding stress to family life, and slowly killing our country's future competitiveness. Yet even so, we still want our kids to score off the charts on every test they take, in elementary school and beyond. And there will be a lot of them. How do we preserve space for self-directed learning and development, while also asking our children to make the score and make a mark? This book is an exploration of that dilemma, and a strategy for how to solve it. The Test explores all sides of this problem—where these tests came from, why they're here to stay, and ultimately what you as a parent or teacher can do. It introduces a set of strategies borrowed from fields as diverse as games, neuroscience, social psychology, and ancient philosophy to help children do as well as they can on tests, and, just as important, how to use the experience of test-taking to do better in life. Like Paul Tough's bestseller How Children Succeed, it illuminates the emerging science of grit, curiosity and motivation, but takes a step further to explore innovations in education—emerging solutions to the over-testing crisis—that are not widely known but that you can adapt today, at home and at school. And it presents the stories of families of all kinds who are maneuvering within and beyond the existing educational system, playing and winning the testing game. You'll learn, for example, what Bill Gates, a strong public proponent of testing, does to stoke self-directed curiosity in his children, and how Mackenzie Bezos, wife of Amazon founder Jeff Bezos and mother of three, creates individualized learning experiences for each of her children. All parents want their children to be successful, and their schools to deliver true opportunities. Yet these goals are often as likely to result in stress and arguments as actual progress. The Test is a book to help us think about these problems, and ultimately, move our own children towards the future we want for them, from elementary to high school and beyond.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781610394420"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1610394429"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-4OSBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-4OSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-4OSBQAAQBAJ&printsec=frontcover&dq=test&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-4OSBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--4OSBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-4OSBQAAQBAJ&rdid=book--4OSBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Test-sample-epub.acsm?id=-4OSBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-4OSBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book is an exploration of that dilemma, and a strategy for how to solve it. The Test explores all sides of this problem—where these tests came from, why they&#39;re here to stay, and ultimately what you as a parent or teacher can do."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cB0b1FnLbfgC",
+   "etag": "KTMoTlxlSlA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cB0b1FnLbfgC",
+   "volumeInfo": {
+    "title": "Language Test Construction and Evaluation",
+    "authors": [
+     "J. Charles Alderson",
+     "Caroline Clapham",
+     "Dianne Wall"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1995-05-26",
+    "description": "This book describes the process of language test construction and reviews current practice.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521478294"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521478298"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cB0b1FnLbfgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cB0b1FnLbfgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cB0b1FnLbfgC&printsec=frontcover&dq=test&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cB0b1FnLbfgC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Language_Test_Construction_and_Evaluatio.html?hl=&id=cB0b1FnLbfgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cB0b1FnLbfgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book describes the process of language test construction and reviews current practice."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ia3SGDfbaV0C",
+   "etag": "35sBOiHgd1Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ia3SGDfbaV0C",
+   "volumeInfo": {
+    "title": "Constructing Test Items",
+    "subtitle": "Multiple-Choice, Constructed-Response, Performance and Other Formats",
+    "authors": [
+     "Steven J. Osterlind"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1997-12-31",
+    "description": "Constructing test items for standardized tests of achievement, ability, and aptitude is a task of enormous importance. The interpretability of a test's scores flows directly from the quality of its items and exercises. Concomitant with score interpretability is the notion that including only carefully crafted items on a test is the primary method by which the skilled test developer reduces unwanted error variance, or errors of measurement, and thereby increases a test score's reliability. The aim of this entire book is to increase the test constructor's awareness of this source of measurement error, and then to describe methods for identifying and minimizing it during item construction and later review. Persons involved in assessment are keenly aware of the increased attention given to alternative formats for test items in recent years. Yet, in many writers' zeal to be `curriculum-relevant' or `authentic' or `realistic', the items are often developed seemingly without conscious thought to the interpretations that may be garnered from them. This book argues that the format for such alternative items and exercises also requires rigor in their construction and even offers some solutions, as one chapter is devoted to these alternative formats. This book addresses major issues in constructing test items by focusing on four ideas. First, it describes the characteristics and functions of test items. A second feature of this book is the presentation of editorial guidelines for writing test items in all of the commonly used item formats, including constructed-response formats and performance tests. A third aspect of this book is the presentation of methods for determining the quality of test items. Finally, this book presents a compendium of important issues about test items, including procedures for ordering items in a test, ethical and legal concerns over using copyrighted test items, item scoring schemes, computer-generated items and more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780792380771"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0792380770"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 339,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ia3SGDfbaV0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ia3SGDfbaV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Ia3SGDfbaV0C&printsec=frontcover&dq=test&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Ia3SGDfbaV0C&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Constructing_Test_Items.html?hl=&id=Ia3SGDfbaV0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Constructing_Test_Items-sample-pdf.acsm?id=Ia3SGDfbaV0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ia3SGDfbaV0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book addresses major issues in constructing test items by focusing on four ideas. First, it describes the characteristics and functions of test items."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uDWZ6KcKxX4C",
+   "etag": "BcLq7iMlsHM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uDWZ6KcKxX4C",
+   "volumeInfo": {
+    "title": "Barron's Mechanical Aptitude and Spatial Relations Test",
+    "authors": [
+     "Joel Wiesen"
+    ],
+    "publisher": "Barron's Educational Series",
+    "publishedDate": "2009-01-06",
+    "description": "This manual presents 18 practice tests in both mechanical aptitude & spatial ability with answers & detailed explanations for all questions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764141082"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764141089"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 468,
+    "printType": "BOOK",
+    "categories": [
+     "Study Aids"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uDWZ6KcKxX4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uDWZ6KcKxX4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uDWZ6KcKxX4C&printsec=frontcover&dq=test&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=uDWZ6KcKxX4C&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Barron_s_Mechanical_Aptitude_and_Spatial.html?hl=&id=uDWZ6KcKxX4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uDWZ6KcKxX4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This manual presents 18 practice tests in both mechanical aptitude &amp; spatial ability with answers &amp; detailed explanations for all questions."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S9pw5tej8UMC",
+   "etag": "BPS6fmZ4up0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S9pw5tej8UMC",
+   "volumeInfo": {
+    "title": "Barron's TOEIC Bridge Test with Audio CDs",
+    "subtitle": "Test of English for International Communication",
+    "authors": [
+     "Lin Lougheed"
+    ],
+    "publisher": "Barron's Educational Series",
+    "publishedDate": "2010",
+    "description": "A study guide for the TOEIC English-proficiency exam includes subject reviews of both the listening and reading sections; skill-building activities in vocabulary, listening comprehension and reading comprehension; a full-length practice test with all questions answered and explained; and two audio CDs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764197118"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764197116"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 363,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=S9pw5tej8UMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=S9pw5tej8UMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=S9pw5tej8UMC&printsec=frontcover&dq=test&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=S9pw5tej8UMC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Barron_s_TOEIC_Bridge_Test_with_Audio_CD.html?hl=&id=S9pw5tej8UMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=S9pw5tej8UMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A study guide for the TOEIC English-proficiency exam includes subject reviews of both the listening and reading sections; skill-building activities in vocabulary, listening comprehension and reading comprehension; a full-length practice ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QkhMi6mKmUMC",
+   "etag": "KqpUjJCXAmI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QkhMi6mKmUMC",
+   "volumeInfo": {
+    "title": "Satire",
+    "subtitle": "Spirit and Art",
+    "authors": [
+     "George Austin Test"
+    ],
+    "publisher": "University Press of Florida",
+    "publishedDate": "1991",
+    "description": "Tracking his subject wherever it leads, Test finally locates satire living like a stranger in the basement. Even then it won't be trapped. Defining satire is like trying to put a shadow in a sack, he observes. What he brings upstairs - the fiercest form - is an encylopedic, historical analysis of satire.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081301087X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813010878"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QkhMi6mKmUMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QkhMi6mKmUMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QkhMi6mKmUMC&dq=test&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=QkhMi6mKmUMC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Satire.html?hl=&id=QkhMi6mKmUMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QkhMi6mKmUMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tracking his subject wherever it leads, Test finally locates satire living like a stranger in the basement. Even then it won&#39;t be trapped. Defining satire is like trying to put a shadow in a sack, he observes."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RuxUkltYl_UC",
+   "etag": "coHDWzgPnn8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RuxUkltYl_UC",
+   "volumeInfo": {
+    "title": "Language Testing",
+    "authors": [
+     "Tim McNamara"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2000-02-10",
+    "description": "This book examines test design, the rating process, validity, measurement and the social dimension of language testing. Traditional and newer forms of language assessment are considered.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0194372227"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780194372220"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RuxUkltYl_UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RuxUkltYl_UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RuxUkltYl_UC&printsec=frontcover&dq=test&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RuxUkltYl_UC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Language_Testing.html?hl=&id=RuxUkltYl_UC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Language_Testing-sample-epub.acsm?id=RuxUkltYl_UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RuxUkltYl_UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book offers a succinct theoretical introduction to the basic concepts in language testing in a way that is easy to understand."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E0yH0NdySrQC",
+   "etag": "rHlRhok2qms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E0yH0NdySrQC",
+   "volumeInfo": {
+    "title": "Language Testing in Practice",
+    "subtitle": "Designing and Developing Useful Language Tests",
+    "authors": [
+     "Lyle F. Bachman",
+     "Adrian S. Palmer"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "1996-09-19",
+    "description": "This book relates language testing practice to current views of communicative language teaching and testing. It builds on the theoretical background expounded in Bachman's Fundamental Considerations in Language Testing and examines the design, planning, and organization of tests. The book is divided into three sections which discuss 1) objectives and expectations, the context of language testing, and the abilities to be tested; 2) the process of test development, including blueprints, resources, operationalization, and scoring methods; and 3) ten examples which illustrate the principles discussed in Parts One and Two.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0194371484"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780194371483"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 377,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=E0yH0NdySrQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=E0yH0NdySrQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=E0yH0NdySrQC&pg=PA17&dq=test&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=E0yH0NdySrQC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Language_Testing_in_Practice.html?hl=&id=E0yH0NdySrQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=E0yH0NdySrQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The most important consideration in designing and developing a language \u003cb\u003etest\u003c/b\u003e is \u003cbr\u003e\nthe use for which it is intended, so that the most important quality of a \u003cb\u003etest\u003c/b\u003e is its \u003cbr\u003e\nusefulness. This may seem so obvious that it need not be stated. But what makes \u003cbr\u003e\na \u003cb\u003etest\u003c/b\u003e useful? How do we know if a \u003cb\u003etest\u003c/b\u003e will be useful before we use it? Or if it has \u003cbr\u003e\nbeen useful after we have used it? Stating the question of usefulness this way \u003cbr\u003e\nimplies that simply using a \u003cb\u003etest\u003c/b\u003e does not make it useful. By stating the obvious \u003cbr\u003e\nand by&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fbqlQaMiIYsC",
+   "etag": "cEemzYLOvI8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fbqlQaMiIYsC",
+   "volumeInfo": {
+    "title": "Pragmatic Software Testing",
+    "subtitle": "Becoming an Effective and Efficient Test Professional",
+    "authors": [
+     "Rex Black"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2007",
+    "description": "A hands-on guide to testing techniques that deliver reliable software and systems Testing even a simple system can quickly turn into a potentially infinite task. Faced with tight costs and schedules, testers need to have a toolkit of practical techniques combined with hands-on experience and the right strategies in order to complete a successful project. World-renowned testing expert Rex Black provides you with the proven methods and concepts that test professionals must know. He presents you with the fundamental techniques for testing and clearly shows you how to select and apply successful strategies to test a system with budget and time constraints. Black begins by discussing the goals and tactics of effective and efficient testing. Next, he lays the foundation of his technique for risk-based testing, explaining how to analyze, prioritize, and document risks to the quality of the system using both informal and formal techniques. He then clearly describes how to design, develop, and, ultimately, document various kinds of tests. Because this is a hands-on activity, Black includes realistic, life-sized exercises that illustrate all of the major test techniques with detailed solutions. By the end of this book, you'll know more about the nuts and bolts of testing than most testers learn in an entire career, and you'll be ready to put those ideas into action on your next test project. With the help of real-world examples integrated throughout the chapters, you'll discover how to: Analyze the risks to system quality Allocate your testing effort appropriately based on the level of risk Choose the right testing strategies every time Design tests based on a system's expected behavior (black box) or internal structure (white box) Plan and perform integration testing Explore and attack the system Focus your hard work to serve the needs of the project The author's companion Web site provides exercises, tips, and techniques that can be used to gain valuable experience and effectively test software and systems. Wiley Technology Publishing Timely. Practical. Reliable. Visit the author's Web site at http://www.rexblackconsulting.com/",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470127902"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0470127902"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 366,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.5.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fbqlQaMiIYsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fbqlQaMiIYsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fbqlQaMiIYsC&printsec=frontcover&dq=test&hl=&cd=11&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fbqlQaMiIYsC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pragmatic_Software_Testing.html?hl=&id=fbqlQaMiIYsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fbqlQaMiIYsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Because this is a hands-on activity, Black includes realistic, life-sized exercises that illustrate all of the major test techniques with detailed solutions."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CQuBkXDspBkC",
+   "etag": "kOE5N4B+wZI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CQuBkXDspBkC",
+   "volumeInfo": {
+    "title": "A Manual of Laboratory and Diagnostic Tests",
+    "authors": [
+     "Frances Talaska Fischbach",
+     "Marshall Barnett Dunning"
+    ],
+    "publisher": "Lippincott Williams & Wilkins",
+    "publishedDate": "2009",
+    "description": "Now in its Eighth Edition, this leading comprehensive manual helps nurses deliver safe, effective, and informed care for patients undergoing diagnostic tests and procedures. The book covers a broad range of laboratory and diagnostic tests and studies that are delivered to varied patient populations in varied settings. Tests are grouped according to specimen and function/test type (e.g. blood, urine, stool, cerebrospinal fluid, etc.). Each test is described in detail, with step-by-step guidance on correct procedure, tips for accurate interpretation, and instructions for patient preparation and aftercare. Clinical Alerts highlight critical safety information.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0781771943"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780781771948"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1317,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CQuBkXDspBkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CQuBkXDspBkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CQuBkXDspBkC&pg=PA138&dq=test&hl=&cd=12&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CQuBkXDspBkC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Manual_of_Laboratory_and_Diagnostic_Te.html?hl=&id=CQuBkXDspBkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CQuBkXDspBkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Frances Talaska Fischbach, Marshall Barnett Dunning. Interventions Pretest \u003cbr\u003e\nPatient Care 1. Explain \u003cb\u003etest\u003c/b\u003e purpose and procedure to parents. 2. Obstetric \u003cbr\u003e\ncomplications may lead to significant morbidity and mortality for the mothers of \u003cbr\u003e\nthese infants. 3. Provide genetic counseling in a Sensitive manner. 4. See \u003cbr\u003e\nChapter 1 guidelines for safe, effective, informed pretest care. Posttest Patient \u003cbr\u003e\nCare 1. Interpret \u003cb\u003etest\u003c/b\u003e outcome and counsel parents. 2. See Chapter 1 guidelines \u003cbr\u003e\nfor safe, effective,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-3P00MGV74wC",
+   "etag": "exw+hJLqhzI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-3P00MGV74wC",
+   "volumeInfo": {
+    "title": "The Testing",
+    "authors": [
+     "Joelle Charbonneau"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2013-06-04",
+    "description": "It’s graduation day for sixteen-year-old Malencia Vale, and the entire Five Lakes Colony (the former Great Lakes) is celebrating. All Cia can think about—hope for—is whether she’ll be chosen for The Testing, a United Commonwealth program that selects the best and brightest new graduates to become possible leaders of the slowly revitalizing post-war civilization. When Cia is chosen, her father finally tells her about his own nightmarish half-memories of The Testing. Armed with his dire warnings (”Cia, trust no one”), she bravely heads off to Tosu City, far away from friends and family, perhaps forever. Danger, romance—and sheer terror—await.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780544035690"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0544035690"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 67,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.13.12.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-3P00MGV74wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-3P00MGV74wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-3P00MGV74wC&printsec=frontcover&dq=test&hl=&cd=13&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-3P00MGV74wC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--3P00MGV74wC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-3P00MGV74wC&rdid=book--3P00MGV74wC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Testing-sample-epub.acsm?id=-3P00MGV74wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Testing-sample-pdf.acsm?id=-3P00MGV74wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-3P00MGV74wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "All Cia can think about—hope for—is whether she’ll be chosen for The Testing, a United Commonwealth program that selects the best and brightest new graduates to become possible leaders of the slowly revitalizing post-war civilization."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cR5pNv76HMgC",
+   "etag": "roAdlt8MtMI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cR5pNv76HMgC",
+   "volumeInfo": {
+    "title": "Compression Testing of Homogeneous Materials and Composites",
+    "subtitle": "A Symposium",
+    "authors": [
+     "Richard Chait",
+     "Ralph Papirno"
+    ],
+    "publisher": "ASTM International",
+    "publishedDate": "1983",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0803102488"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780803102484"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "Compressibility"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cR5pNv76HMgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cR5pNv76HMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cR5pNv76HMgC&pg=PA78&dq=test&hl=&cd=14&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cR5pNv76HMgC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Compression_Testing_of_Homogeneous_Mater.html?hl=&id=cR5pNv76HMgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cR5pNv76HMgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ivan A. Mar tor ell1 On the Ring Compression \u003cb\u003eTest\u003c/b\u003e REFERENCE: Martorell, I. A.. &quot;\u003cbr\u003e\nOn the Ring Compression \u003cb\u003eTest\u003c/b\u003e,&quot; Compression \u003cb\u003eTesting\u003c/b\u003e of Homogeneous \u003cbr\u003e\nMaterials and Composites. ASTM STP 808. Richard Chait and Ralph Papirno, \u003cbr\u003e\nEds,. American Society for \u003cb\u003eTesting\u003c/b\u003e and Materials, 1983. pp. 78-94. ABSTRACT: \u003cbr\u003e\nThe ring compression \u003cb\u003etest\u003c/b\u003e is reexamined and the validity of the \u003cb\u003etest\u003c/b\u003e method is \u003cbr\u003e\ndiscussed. It is concluded that the ring compression \u003cb\u003etest\u003c/b\u003e has been shown to be \u003cbr\u003e\nvalid only in&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LKPLcfQWblUC",
+   "etag": "CU+a/Fnc0BQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LKPLcfQWblUC",
+   "volumeInfo": {
+    "title": "Test Your Own Aptitude",
+    "authors": [
+     "James Barrett",
+     "Jim Barrett",
+     "Geoffrey Williams"
+    ],
+    "publisher": "Kogan Page Publishers",
+    "publishedDate": "2003",
+    "description": "Test Your Own Aptitude, the biggest and best book on aptitude testing available, is for anyone who wants a successful career - but is unsure where to start. Based on solid scientific research and sound psychological practice, it contains a series of tests and questionnaires that will identify the reader's abilities; personality; and motivation. The results are then used to pinpoint ideal career choices and there is an index of over 400 jobs to help make the whole process easier. Fully revised and updated, it will help readers to make better decisions about their future - by establishing what they can do best and which career suits them most.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0749438878"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780749438876"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 234,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LKPLcfQWblUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LKPLcfQWblUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LKPLcfQWblUC&printsec=frontcover&dq=test&hl=&cd=15&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LKPLcfQWblUC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Test_Your_Own_Aptitude.html?hl=&id=LKPLcfQWblUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LKPLcfQWblUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Test Your Own Aptitude, the biggest and best book on aptitude testing available, is for anyone who wants a successful career - but is unsure where to start."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5uRIb3emLY8C",
+   "etag": "FA3YfvMMQvA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5uRIb3emLY8C",
+   "volumeInfo": {
+    "title": "Tensile Testing, 2nd Edition",
+    "subtitle": "",
+    "authors": [
+     "Joseph R. Davis"
+    ],
+    "publisher": "ASM International",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781615030958"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1615030956"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 283,
+    "printType": "BOOK",
+    "categories": [
+     "Brittleness"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5uRIb3emLY8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5uRIb3emLY8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5uRIb3emLY8C&pg=PA115&dq=test&hl=&cd=16&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5uRIb3emLY8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5uRIb3emLY8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5uRIb3emLY8C&rdid=book-5uRIb3emLY8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.032E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Tensile_Testing_2nd_Edition-sample-pdf.acsm?id=5uRIb3emLY8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5uRIb3emLY8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "THE TENSILE \u003cb\u003eTEST\u003c/b\u003e provides a relatively easy, inexpensive technique for \u003cbr\u003e\ndeveloping mechanical property data for the selection, qualification, and \u003cbr\u003e\nutilization of metals and alloys in engineering service. This data may be used to \u003cbr\u003e\nestablish the suitability of the alloy for a particular application, and/or to provide a \u003cbr\u003e\nbasis for comparison with other candidate materials. Design guidelines generally \u003cbr\u003e\nrequire that the tensile properties of metals and alloys meet specific, well-defined \u003cbr\u003e\ncriteria."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pqcesk8iZzMC",
+   "etag": "HvSwWLkr10w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pqcesk8iZzMC",
+   "volumeInfo": {
+    "title": "Charpy Impact Test",
+    "subtitle": "Factors and Variables",
+    "authors": [
+     "John M. Holt"
+    ],
+    "publisher": "ASTM International",
+    "publishedDate": "1990-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0803112955"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780803112957"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 214,
+    "printType": "BOOK",
+    "categories": [
+     "Compliance"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Pqcesk8iZzMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Pqcesk8iZzMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Pqcesk8iZzMC&pg=PA193&dq=test&hl=&cd=17&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Pqcesk8iZzMC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Charpy_Impact_Test.html?hl=&id=Pqcesk8iZzMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Pqcesk8iZzMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Randy K. Nanstad, Ronald L. Swain, and Reynold G. Berggren INFLUENCE OF \u003cbr\u003e\nTHERMAL CONDITIONING MEDIA ON CHARPY SPECIMEN \u003cb\u003eTEST\u003c/b\u003e \u003cbr\u003e\nTEMPERATURE REFERENCE: Nanstad, R. K. , Swain, R. L. , and Berggren, \u003cbr\u003e\nR. G. , &quot;Influence of Thermal Conditioning Media on Charpy Specimen \u003cb\u003eTest\u003c/b\u003e \u003cbr\u003e\nTemperature,&quot; Charpy Impact \u003cb\u003eTest\u003c/b\u003e: Factors and Variables . ASTM STP 1072. \u003cbr\u003e\nJohn M. Holt, Editor, American Society for \u003cb\u003eTesting\u003c/b\u003e and Materials, Philadelphia, \u003cbr\u003e\n1990. ABSTRACT: The&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lMTIIQb-MO8C",
+   "etag": "Vy+Pmie6G6w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lMTIIQb-MO8C",
+   "volumeInfo": {
+    "title": "PRO 31: International RILEM Workshop on Test and Design Methods for Steel Fibre Reinforced Concrete - Background and Experiences",
+    "authors": [
+     "Bernd Schnütgen",
+     "Lucie Vandewalle"
+    ],
+    "publisher": "RILEM Publications",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2912143381"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782912143389"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 209,
+    "printType": "BOOK",
+    "categories": [
+     "Cement composites"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lMTIIQb-MO8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lMTIIQb-MO8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lMTIIQb-MO8C&pg=PA1&dq=test&hl=&cd=18&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lMTIIQb-MO8C&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PRO_31_International_RILEM_Workshop_on_T.html?hl=&id=lMTIIQb-MO8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lMTIIQb-MO8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Abstract The &quot;draft recommendation&quot; of the bending \u003cb\u003etest\u003c/b\u003e has been published in \u003cbr\u003e\n2000 [1]. In the Brite Euram project BRPR-CT98-0813 (1999-2002) a round robin \u003cbr\u003e\n\u003cb\u003etest\u003c/b\u003e programme was carried out on the bending \u003cb\u003etest\u003c/b\u003e. Both plain concrete and \u003cbr\u003e\nsteel fibre reinforced concrete (SFRC) were investigated. The material variables \u003cbr\u003e\nfor the SFRC beams consisted of two concrete strengths, three fibre dosages and \u003cbr\u003e\nthree types of fibres. In general, the beam \u003cb\u003etest\u003c/b\u003e was found to be a good robust \u003cb\u003etest\u003c/b\u003e \u003cbr\u003e\nand&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G5ZZuwpJdLEC",
+   "etag": "8w/QvXCzUdQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G5ZZuwpJdLEC",
+   "volumeInfo": {
+    "title": "Vane Shear Strength Testing in Soils",
+    "subtitle": "Field and Laboratory Studies",
+    "authors": [
+     "Adrian F. Richards"
+    ],
+    "publisher": "ASTM International",
+    "publishedDate": "1988",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0803111886"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780803111882"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 378,
+    "printType": "BOOK",
+    "categories": [
+     "Shear strength of soils"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G5ZZuwpJdLEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G5ZZuwpJdLEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=G5ZZuwpJdLEC&pg=PA182&dq=test&hl=&cd=19&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=G5ZZuwpJdLEC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Vane_Shear_Strength_Testing_in_Soils.html?hl=&id=G5ZZuwpJdLEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G5ZZuwpJdLEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Petrus L. M. Veneman1 and Tuncer B. EdiP Micromorphological Aspects of the \u003cbr\u003e\nVane Shear \u003cb\u003eTest\u003c/b\u003e REFERENCE; Veneman, P. L. M, and Edil, T. B., &quot;\u003cbr\u003e\nMicromorphological Aspects of the Vane Shear \u003cb\u003eTest\u003c/b\u003e,&quot; Vane Shear Strength \u003cbr\u003e\n\u003cb\u003eTesting\u003c/b\u003e in Soils: Field and Laboratory Studies, ASTM STP 1014, A. F. Richards, \u003cbr\u003e\nEd., American Society for \u003cb\u003eTesting\u003c/b\u003e and Materials, Philadelphia, 1988, pp. 182-190. \u003cbr\u003e\nABSTRACT; Micromorphological studies of the mode of failure using thin \u003cbr\u003e\nsections of soil obtained&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a0NyZJKgqyIC",
+   "etag": "+Ei08Ps6z8Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a0NyZJKgqyIC",
+   "volumeInfo": {
+    "title": "Sensory Testing Methods",
+    "subtitle": "A Manual",
+    "authors": [
+     "Francis J. Pilgrim",
+     "David R. Peryam"
+    ],
+    "publisher": "ASTM International",
+    "publishedDate": "1958",
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 50,
+    "printType": "BOOK",
+    "categories": [
+     "Food"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a0NyZJKgqyIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a0NyZJKgqyIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=a0NyZJKgqyIC&pg=PA25&dq=test&hl=&cd=20&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=a0NyZJKgqyIC&dq=test&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sensory_Testing_Methods.html?hl=&id=a0NyZJKgqyIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Sensory_Testing_Methods-sample-epub.acsm?id=a0NyZJKgqyIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a0NyZJKgqyIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The forced choice discrimination \u003cb\u003etests\u003c/b\u003e are used to confirm suspected small \u003cbr\u003e\ndifferences in product characteristics or product quality and to select respondents \u003cbr\u003e\nfor discrimination \u003cb\u003etests\u003c/b\u003e. Sometimes discrimination is desirable, such as, with a \u003cbr\u003e\nplanned improvement in a product versus the original. Sometimes discrimination \u003cbr\u003e\nis undesirable, such as, a change to a less costly ingredient or when trying to \u003cbr\u003e\nmatch the paint on a car door to the rest of the automobile after an accident. The \u003cbr\u003e\n\u003cb\u003etests\u003c/b\u003e given&nbsp;..."
+   }
+  }
+ ]
+}
