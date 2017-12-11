@@ -112,7 +112,10 @@ describe('rendering', ()=>{
     }
     expect(state.app.controller).toBe('about')
     let app = generateAppHTML(state)
-    let about = generateHTML(<About />)
+    let about = generateHTML(
+      <Provider store={store}>
+        <About />
+      </Provider>)
     expect(app.indexOf(about) >= 0).toBe(true)
   })
 
