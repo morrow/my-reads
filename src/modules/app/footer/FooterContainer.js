@@ -11,7 +11,7 @@ export const mapDispatchToProps = (dispatch, ownProps) => {
     onClick: (e) => {
       if(window.confirm('Really reset everything? This will start over from scratch. Cannot undo.')){
         dispatch(resetState())
-        dispatch(navigateToPath(window.location.pathname))
+        dispatch(navigateToPath('/'))
       }
     }
   }
