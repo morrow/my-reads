@@ -19,6 +19,14 @@ export const getControllerFromPath = (path) => {
   }
 }
 
+export const waitThenPerform = (label, fn, delay)=>{
+  if(window.clearTimeout){
+    let timer = window[`__${label}_timeout__`]
+    window.clearTimeout(timer)
+    window[`__${label}_timeout__`] = window.setTimeout(fn, delay)
+  }
+}
+
 export const slugify = (input)=> input.replace(/ /g, '-').toLowerCase()
 
 export const getIDFromPath = (path) => {

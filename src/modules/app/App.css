@@ -58,6 +58,24 @@ button, .button {
 }
 
 /* Header */
+
+@media only screen and (max-width: 415px)  {
+  header nav {
+    height:12em !important;
+    text-align:center;
+  }
+  header nav a {
+    display:block;
+  }
+  header nav a.search {
+    float: none !important;
+    text-align: center;
+    right: 0 !important;
+    top: 0 !important;
+    position: inherit !important;
+  }
+}
+
 header nav {
     background:#09f;
 }

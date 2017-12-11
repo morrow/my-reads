@@ -21,6 +21,9 @@ export const receiveResults = (results)=> {
 }
 
 const parseResults = (results)=> {
+  if(!results){
+    return []
+  }
   return results.map((item)=>{
     try {
       return {
@@ -42,6 +45,11 @@ const parseResults = (results)=> {
 
 // Async Actions
 export const fetchResults = (query)=> {
+  if(!query || query === ''){
+    return function(dispatch){
+      dispatch(receiveResults([]))
+    }
+  }
   const api_key = 'AIzaSyC5O0_uMoif6s6TCqvIEfNS3ox_Q1Xo3f0';
   let url = `https://www.googleapis.com/books/v1/volumes?key=${api_key}&q=${query}&maxResults=30`;
   return function(dispatch){

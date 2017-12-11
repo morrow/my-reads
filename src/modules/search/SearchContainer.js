@@ -1,5 +1,6 @@
 import { connect } from 'react-redux'
 import { updateQuery, fetchResults } from './searchActions'
+import { waitThenPerform } from '../app/appHelpers'
 import Search from './Search'
 
 export const mapStateToProps = (state, ownProps) => {
@@ -11,7 +12,12 @@ export const mapStateToProps = (state, ownProps) => {
 export const mapDispatchToProps = (dispatch, ownProps) => {
   return {
     onChange: (e) => {
-      dispatch(updateQuery(e.target.value))
+      let query = e.target.value
+      let delay = query === '' ? 0 : 500
+      dispatch(updateQuery(query))
+      waitThenPerform('fetch', ()=>{
+        dispatch(fetchResults(query))
+      }, delay)
     },
     onSubmit: (e) => {
       e.preventDefault()
