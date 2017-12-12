@@ -8,7 +8,7 @@ import SearchContainer from './SearchContainer'
 import searchResults from './searchResults'
 import searchResultsParsed from './searchResultsParsed'
 import searchReducer, { initial_state } from './searchReducer'
-import { updateQuery, submitQuery, fetchResults } from './searchActions'
+import { updateQuery, submitQuery, fetchResults, parseResults } from './searchActions'
 import { initial_state as initial_app_state } from '../../reducers'
 import { mapStateToProps, mapDispatchToProps } from './SearchContainer'
 
@@ -55,6 +55,24 @@ describe('state management', ()=>{
     expect(searchReducer(undefined, {})).toEqual(initial_state)
   })
 
+})
+
+describe('parses results', ()=>{
+  it('rejects results without required attributes', ()=>{
+    // copy results so we can mangle them
+    let mangled_results = JSON.parse(JSON.stringify(searchResults.items))
+    expect(parseResults(mangled_results).length).toBe(20)
+    // delete some required attributes - parse results should now reject
+    delete mangled_results[0].volumeInfo.authors
+    expect(parseResults(mangled_results).length).toBe(19)
+    delete mangled_results[1].volumeInfo.title
+    expect(parseResults(mangled_results).length).toBe(18)
+    delete mangled_results[2].volumeInfo.imageLinks.thumbnail
+    expect(parseResults(mangled_results).length).toBe(17)
+    // delete non required attributes - parse results should allow
+    delete mangled_results[3].volumeInfo.imageLinks.published
+    expect(parseResults(mangled_results).length).toBe(17)
+  })
 })
 
 describe('async fetch', ()=>{

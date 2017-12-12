@@ -107,7 +107,7 @@ Book.propTypes = {
         authors:      PropTypes.array.isRequired,
         title:        PropTypes.string.isRequired,
         image:        PropTypes.string.isRequired,
-        published:    PropTypes.string.isRequired,
+        published:    PropTypes.string,
         categories:   PropTypes.array,
         description:  PropTypes.string,
         show_full_description: PropTypes.bool

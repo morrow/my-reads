@@ -20,7 +20,7 @@ export const receiveResults = (results)=> {
   }
 }
 
-const parseResults = (results)=> {
+export const parseResults = (results)=> {
   if(!results){
     return []
   }
@@ -37,10 +37,12 @@ const parseResults = (results)=> {
           published:    item.volumeInfo.publishedDate.match(/[0-9]{4}/)[0],
       }
     } catch(e){
-      console.log('error processing book: ', e, item)
       return null
     }
-  }).filter(item=>item!==null)
+  }).filter(item=>item!==null).filter(item=>{
+    let required = ['id', 'authors', 'title', 'image']
+    return required.filter(property => item[property] !== undefined).length === required.length
+  })
 }
 
 // Async Actions
