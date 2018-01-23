@@ -49,7 +49,7 @@ export const generateHTML = (jsx)=>{
 }
 
 export const getContainingElement = (element, nodename)=>{
-  if(element.nodeName === nodename){
+  if(element.nodeName.toLowerCase() === nodename.toLowerCase() || element.nodeName.toLowerCase() == 'html'){
     return element
   } else {
     return getContainingElement(element.parentNode, nodename)
